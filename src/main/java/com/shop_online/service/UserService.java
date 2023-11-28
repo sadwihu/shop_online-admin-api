@@ -7,6 +7,8 @@ import com.shop_online.vo.UserVO;
 
 import com.shop_online.common.model.Query;
 
+import javax.servlet.http.HttpServletResponse;
+
 /**
  * <p>
  *  服务类
@@ -25,5 +27,11 @@ public interface UserService extends IService<User> {
      */
 
     PageResult<UserVO> getPage (Query query);
-
+    /**
+     * 导出用户记录
+     *
+     * @param query
+     * @param response
+     */
+    void exportUserInfo(Query query, HttpServletResponse response);
 }
