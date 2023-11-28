@@ -3,7 +3,7 @@ package com.shop_online.service;
 import com.shop_online.vo.SysCaptchaVO;
 
 /**
- * @Author ycshang
+ * @Author sunyu
  * @Date 2023/7/11
  * @Description TODO
  */

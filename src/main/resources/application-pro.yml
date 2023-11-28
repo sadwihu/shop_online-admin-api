@@ -4,7 +4,7 @@ spring:
     druid:
       url: jdbc:mysql://127.0.0.1:3306/geek-temp?useSSL=false&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
       username: root
-      password: 123456
+      password: QPP6048
   redis:
     #redis数据库索引(默认为0)
     database: 0

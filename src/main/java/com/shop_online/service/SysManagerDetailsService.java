@@ -4,7 +4,7 @@ import com.shop_online.entity.SysManager;
 import org.springframework.security.core.userdetails.UserDetails;
 
 /**
- * @Author ycshang
+ * @Author sunyu
  * @Date 2023/7/11
  * @Description TODO
  */

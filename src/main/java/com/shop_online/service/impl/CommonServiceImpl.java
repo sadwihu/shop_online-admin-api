@@ -5,11 +5,12 @@ import com.aliyun.oss.model.ObjectMetadata;
 import com.shop_online.common.exception.ServerException;
 import com.shop_online.service.CommonService;
 import com.shop_online.vo.FileUrlVO;
-import javax.annotation.Resource;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
+
+import javax.annotation.Resource;
 import java.io.IOException;
 import java.io.InputStream;
 import java.text.SimpleDateFormat;
@@ -17,7 +18,7 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * @Author ycshang
+ * @Author sunyu
  * @Date 2023/7/12
  * @Description TODO
  */

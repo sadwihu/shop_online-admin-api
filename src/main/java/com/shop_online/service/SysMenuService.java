@@ -14,7 +14,7 @@ import java.util.Set;
  * 服务类
  * </p>
  *
- * @author ycshang
+ * @author sunyu
  * @since 2023-11-28
  */
 public interface SysMenuService extends IService<SysMenu> {

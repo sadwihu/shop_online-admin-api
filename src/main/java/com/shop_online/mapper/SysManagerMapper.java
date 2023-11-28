@@ -15,7 +15,7 @@ import java.util.List;
  * Mapper 接口
  * </p>
  *
- * @author ycshang
+ * @author sunyu
  * @since 2023-11-28
  */
 public interface SysManagerMapper extends BaseMapper<SysManager> {

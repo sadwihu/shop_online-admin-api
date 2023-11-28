@@ -15,7 +15,7 @@ import java.util.List;
  * 服务类
  * </p>
  *
- * @author ycshang
+ * @author sunyu
  * @since 2023-11-28
  */
 public interface SysManagerService extends IService<SysManager> {

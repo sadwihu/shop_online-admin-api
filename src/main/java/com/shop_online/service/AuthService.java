@@ -6,7 +6,7 @@ import com.shop_online.vo.SysTokenVO;
 /**
  * 认证服务
  *
- * @Author ycshang
+ * @Author sunyu
  * @Date 2023-05-18 17:26
  */
 public interface AuthService {

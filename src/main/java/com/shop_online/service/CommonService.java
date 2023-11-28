@@ -4,7 +4,7 @@ import com.shop_online.vo.FileUrlVO;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
- * @Author ycshang
+ * @Author sunyu
  * @Date 2023/7/12
  * @Description TODO
  */

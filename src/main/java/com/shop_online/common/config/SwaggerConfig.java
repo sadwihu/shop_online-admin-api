@@ -52,7 +52,7 @@ public class SwaggerConfig {
     }
 
     private ApiInfo apiInfo() {
-        Contact contact = new Contact("尚宇驰", "", "");
+        Contact contact = new Contact("张希田", "", "");
         return new ApiInfoBuilder()
                 .title("后台管理系统-API文档")
                 .description("本文档描述了后台管理系统接口定义")
